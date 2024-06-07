@@ -1,0 +1,10 @@
+{
+  "name": "myapp",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
